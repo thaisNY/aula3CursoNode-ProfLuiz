@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#container{
+    width: 800px;
+    height: 400px;
+    background-color: orange;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+#maior{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+#menor{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
